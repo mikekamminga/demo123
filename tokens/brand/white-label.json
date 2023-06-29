@@ -1,0 +1,24 @@
+{
+  "color": {
+    "cta": {
+      "default": {
+        "value": "{color.scale.primary.500}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{color.scale.primary.400}",
+        "type": "color"
+      }
+    },
+    "brand": {
+      "value": "#00048a",
+      "type": "color"
+    }
+  },
+  "radii": {
+    "button": {
+      "value": "0",
+      "type": "borderRadius"
+    }
+  }
+}

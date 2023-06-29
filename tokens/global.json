@@ -1,0 +1,54 @@
+{
+  "color": {
+    "cta": {
+      "value": "#565656",
+      "type": "color"
+    },
+    "scale": {
+      "primary": {
+        "400": {
+          "value": "{color.brand}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.2",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "500": {
+          "value": "{color.brand}",
+          "type": "color"
+        },
+        "600": {
+          "value": "{color.brand}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.2",
+                "space": "srgb"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "spacing": {
+    "button": {
+      "value": "12 24",
+      "type": "spacing"
+    }
+  },
+  "radii": {
+    "button": {
+      "value": "16",
+      "type": "borderRadius"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "c22cc232547a2112bdacdb1d0462f2e7bdfcd2ee",
+    "name": "white-label",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled"
+    }
+  },
+  {
+    "id": "ff297248a6585ddc5637f2b698a3fb09db777af7",
+    "name": "Brand A",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "brand/a": "enabled"
+    }
+  },
+  {
+    "id": "ba2e53fd22464442b8c0a6aaae27870ed416cb0a",
+    "name": "Brand B",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "brand/white-label": "enabled"
+    }
+  }
+]
