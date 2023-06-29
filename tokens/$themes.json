@@ -25,7 +25,15 @@
   {
     "id": "ba2e53fd22464442b8c0a6aaae27870ed416cb0a",
     "name": "Brand B",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "color.cta.default": "S:586fe109e0ac25f302d6f2a8f523ffc9003ee2f2,",
+      "color.cta.hover": "S:e0bb4100a7484ced55d86ce4646f3a2d0c091369,",
+      "color.brand": "S:0cedac9b33c9a01d7ff5d8801b4c04b135fde5e4,",
+      "color.cta": "S:07bf8ce129638ac95428fce60ceb54cd82809582,",
+      "color.scale.primary.400": "S:b10b7cf44f5eb91147f92b2e04fe43cebc93689a,",
+      "color.scale.primary.500": "S:ef20ffd19bb918003b04036bc111766287153bec,",
+      "color.scale.primary.600": "S:a08a4c2bd5d836000a858800d37350065231ac75,"
+    },
     "selectedTokenSets": {
       "global": "enabled",
       "brand/white-label": "enabled"
