@@ -10,7 +10,13 @@
   {
     "id": "ff297248a6585ddc5637f2b698a3fb09db777af7",
     "name": "Brand A",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "color.brand": "S:b4a7bfd3fb79fb1e067be7d61aebaa1bc94d8722,",
+      "color.cta": "S:4dd33c120d240a06c0107e6535edb9db6d1f752c,",
+      "color.scale.primary.400": "S:eca02ba8499ca51a741df98587dae2c3c32ab199,",
+      "color.scale.primary.500": "S:e2668b42db2f6f42daef32487a16d0df819846f4,",
+      "color.scale.primary.600": "S:f1d82855e1513190bf2a3cddf699c0701e6d24fa,"
+    },
     "selectedTokenSets": {
       "global": "enabled",
       "brand/a": "enabled"
